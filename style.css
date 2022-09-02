@@ -25,12 +25,12 @@ main{
     position: relative;
     margin-top: 20px;
     margin-left: 150px;
-    background-image: url("imagenes/Muñeco.png");
+    background-image: url("imagenes/Muñeco-2.png");
     background-repeat: no-repeat;
-    background-position: 80px;
+    background-position: 90px;
     background-size: 200px;
     height: 300px;
-    width: 400px;
+    width: 380px;
     border-radius: 5px;
     border: 0;
     outline: none;  
